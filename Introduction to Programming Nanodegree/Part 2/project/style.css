@@ -1,0 +1,29 @@
+.title {
+	background-color: #5fca63;
+	color: #ffffff;
+	font-size: 45px;
+	font-weight: 500;
+}
+
+.main {
+	display: flex;
+}
+
+.about {
+	font-size: 18px;
+	color: #525559;
+}
+
+.avatar {
+	margin-right: 10px;
+}
+
+.description {
+	font-size: 16px;
+	margin: 5px;
+}
+
+.tech {
+	font-size: 14px;
+	font-family: serif;
+}
